@@ -390,11 +390,11 @@
   <header id="header" class="header header-fullwidth header-transparent-bg">
     <div class="container">
       <div class="header-desk header-desk_type_1">
-        <div class="logo">
-          <a href="index.html">
-            <img src="{{ asset('assets/images/logo.png') }}" alt="Uomo" class="logo__image d-block" />
-          </a>
-        </div>
+         <div class="logo">
+        <a href="index.html">
+          <img src="{{ asset('assets/images/logo.png') }}" alt="Uomo" class="logo__image d-block" />
+        </a>
+      </div>
 
         <nav class="navigation">
           <ul class="navigation__list list-unstyled d-flex">
@@ -501,9 +501,9 @@
               <img src="{{ asset('assets/images/logo.png') }}" alt="SurfsideMedia" class="logo__image d-block" />
             </a>
           </div>
-          <p class="footer-address">123 Beach Avenue, Surfside City, CA 00000</p>
-          <p class="m-0"><strong class="fw-medium">contact@surfsidemedia.in</strong></p>
-          <p><strong class="fw-medium">+1 000-000-0000</strong></p>
+          <p class="footer-address">Ngaliyan, Semarang Barat JawaTengah</p>
+          <p class="m-0"><strong class="fw-medium">surfsidemedia@gmail.com</strong></p>
+          <p><strong class="fw-medium">+62 85201 1682 569</strong></p>
 
           <ul class="social-links list-unstyled d-flex flex-wrap mb-0">
             <li>
@@ -600,7 +600,7 @@
 
     <div class="footer-bottom">
       <div class="container d-md-flex align-items-center">
-        <span class="footer-copyright me-auto">©2024 Surfside Media</span>
+        <span class="footer-copyright me-auto">©2025 Surfside Media</span>
         <div class="footer-settings d-md-flex align-items-center">
           <a href="privacy-policy.html">Privacy Policy</a> &nbsp;|&nbsp; <a href="terms-conditions.html">Terms &amp;
             Conditions</a>

@@ -6,9 +6,8 @@ use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
-    
     public function index()
     {
-        return view('index');
+        return view('layouts.index'); // Harus sesuai dengan nama file view
     }
 }
