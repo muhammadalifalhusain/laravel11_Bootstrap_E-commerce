@@ -286,7 +286,7 @@
                     <div class="pc__info position-relative">
                       <h6 class="pc__title"><a href="details.html">Cropped Faux Leather Jacket</a></h6>
                       <div class="product-card__price d-flex">
-                        <span class="money price text-secondary">$29</span>
+                        <span class="money price text-secondary">99K</span>
                       </div>
 
                       <div
@@ -323,7 +323,7 @@
                     <div class="pc__info position-relative">
                       <h6 class="pc__title"><a href="details.html">Calvin Shorts</a></h6>
                       <div class="product-card__price d-flex">
-                        <span class="money price text-secondary">$62</span>
+                        <span class="money price text-secondary">349K</span>
                       </div>
 
                       <div
@@ -360,7 +360,7 @@
                     <div class="pc__info position-relative">
                       <h6 class="pc__title"><a href="details.html">Kirby T-Shirt</a></h6>
                       <div class="product-card__price d-flex">
-                        <span class="money price text-secondary">$62</span>
+                        <span class="money price text-secondary">399K</span>
                       </div>
 
                       <div
@@ -397,8 +397,8 @@
                     <div class="pc__info position-relative">
                       <h6 class="pc__title"><a href="details.html">Cableknit Shawl</a></h6>
                       <div class="product-card__price d-flex align-items-center">
-                        <span class="money price-old">$129</span>
-                        <span class="money price text-secondary">$99</span>
+                        <span class="money price-old">599K</span>
+                        <span class="money price text-secondary">499K</span>
                       </div>
 
                       <div
@@ -435,7 +435,7 @@
                     <div class="pc__info position-relative">
                       <h6 class="pc__title"><a href="details.html">Cropped Faux Leather Jacket</a></h6>
                       <div class="product-card__price d-flex">
-                        <span class="money price text-secondary">$29</span>
+                        <span class="money price text-secondary">99K</span>
                       </div>
 
                       <div
@@ -472,7 +472,7 @@
                     <div class="pc__info position-relative">
                       <h6 class="pc__title"><a href="details.html">Calvin Shorts</a></h6>
                       <div class="product-card__price d-flex">
-                        <span class="money price text-secondary">$62</span>
+                        <span class="money price text-secondary">299K</span>
                       </div>
 
                       <div
@@ -509,7 +509,7 @@
                     <div class="pc__info position-relative">
                       <h6 class="pc__title"><a href="details.html">Kirby T-Shirt</a></h6>
                       <div class="product-card__price d-flex">
-                        <span class="money price text-secondary">$62</span>
+                        <span class="money price text-secondary">299K</span>
                       </div>
 
                       <div
@@ -546,8 +546,8 @@
                     <div class="pc__info position-relative">
                       <h6 class="pc__title"><a href="details.html">Cableknit Shawl</a></h6>
                       <div class="product-card__price d-flex align-items-center">
-                        <span class="money price-old">$129</span>
-                        <span class="money price text-secondary">$99</span>
+                        <span class="money price-old">599K</span>
+                        <span class="money price text-secondary">420K</span>
                       </div>
 
                       <div
@@ -587,7 +587,7 @@
               <img loading="lazy" class="h-auto" src="{{ asset('assets/images/home/demo3/category_9.jpg') }}" width="690" height="665"
                 alt="" />
               <div class="category-banner__item-mark">
-                Starting at $19
+                Starting at 200K
               </div>
               <div class="category-banner__item-content">
                 <h3 class="mb-0">Blazers</h3>
@@ -600,7 +600,7 @@
               <img loading="lazy" class="h-auto" src="{{ asset('assets/images/home/demo3/category_10.jpg') }}" width="690" height="665"
                 alt="" />
               <div class="category-banner__item-mark">
-                Starting at $19
+                Starting at 150K
               </div>
               <div class="category-banner__item-content">
                 <h3 class="mb-0">Sportswear</h3>
@@ -629,7 +629,7 @@
               <div class="pc__info position-relative">
                 <h6 class="pc__title"><a href="details.html">Cropped Faux Leather Jacket</a></h6>
                 <div class="product-card__price d-flex align-items-center">
-                  <span class="money price text-secondary">$29</span>
+                  <span class="money price text-secondary">89K</span>
                 </div>
 
                 <div
@@ -665,7 +665,7 @@
               <div class="pc__info position-relative">
                 <h6 class="pc__title"><a href="details.html">Calvin Shorts</a></h6>
                 <div class="product-card__price d-flex align-items-center">
-                  <span class="money price text-secondary">$62</span>
+                  <span class="money price text-secondary">129K</span>
                 </div>
 
                 <div
@@ -702,7 +702,7 @@
               <div class="pc__info position-relative">
                 <h6 class="pc__title"><a href="details.html">Kirby T-Shirt</a></h6>
                 <div class="product-card__price d-flex align-items-center">
-                  <span class="money price text-secondary">$17</span>
+                  <span class="money price text-secondary">150K</span>
                 </div>
 
                 <div
@@ -739,8 +739,8 @@
               <div class="pc__info position-relative">
                 <h6 class="pc__title">Cableknit Shawl</h6>
                 <div class="product-card__price d-flex align-items-center">
-                  <span class="money price-old">$129</span>
-                  <span class="money price text-secondary">$99</span>
+                  <span class="money price-old">499K</span>
+                  <span class="money price text-secondary">329K</span>
                 </div>
 
                 <div
@@ -776,7 +776,7 @@
               <div class="pc__info position-relative">
                 <h6 class="pc__title"><a href="details.html">Cropped Faux Leather Jacket</a></h6>
                 <div class="product-card__price d-flex align-items-center">
-                  <span class="money price text-secondary">$29</span>
+                  <span class="money price text-secondary">999K</span>
                 </div>
 
                 <div
@@ -812,7 +812,7 @@
               <div class="pc__info position-relative">
                 <h6 class="pc__title"><a href="details.html">Calvin Shorts</a></h6>
                 <div class="product-card__price d-flex align-items-center">
-                  <span class="money price text-secondary">$62</span>
+                  <span class="money price text-secondary">499K</span>
                 </div>
 
                 <div
@@ -848,7 +848,7 @@
               <div class="pc__info position-relative">
                 <h6 class="pc__title"><a href="details.html">Kirby T-Shirt</a></h6>
                 <div class="product-card__price d-flex align-items-center">
-                  <span class="money price text-secondary">$17</span>
+                  <span class="money price text-secondary">99K</span>
                 </div>
 
                 <div
@@ -884,8 +884,8 @@
               <div class="pc__info position-relative">
                 <h6 class="pc__title">Cableknit Shawl</h6>
                 <div class="product-card__price d-flex align-items-center">
-                  <span class="money price-old">$129</span>
-                  <span class="money price text-secondary">$99</span>
+                  <span class="money price-old">599K</span>
+                  <span class="money price text-secondary">499K</span>
                 </div>
 
                 <div
