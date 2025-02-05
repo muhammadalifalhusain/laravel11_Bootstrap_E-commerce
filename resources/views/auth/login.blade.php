@@ -6,9 +6,12 @@
     <section class="login-register container">
       <ul class="nav nav-tabs mb-5" id="login_register" role="tablist">
         <li class="nav-item" role="presentation">
-          <a class="nav-link nav-link_underscore active" id="login-tab" data-bs-toggle="tab" href="#tab-item-login"
-            role="tab" aria-controls="tab-item-login" aria-selected="true">Login</a>
+            <a class="nav-link nav-link_underscore active" id="login-tab" data-bs-toggle="tab" href="#tab-item-login"
+                role="tab" aria-controls="tab-item-login" aria-selected="true" style="padding-top: 60px; ">
+                Login
+            </a>
         </li>
+
       </ul>
       <div class="tab-content pt-2" id="login_register_tab_content">
         <div class="tab-pane fade show active" id="tab-item-login" role="tabpanel" aria-labelledby="login-tab">
@@ -17,7 +20,7 @@
                 @csrf
               <div class="form-floating mb-3">
                 <input class="form-control form-control_gray @error('email') is-invalid @enderror" name="email" value="{{old('email')}}" required="" autocomplete="email" autofocus="">
-                <label for="email">Email address *</label>
+                <label for="email">Email address </label>
               </div>
                  @error('email')
                     <span class="invalid-feedback" role="alert">
@@ -30,7 +33,7 @@
               <div class="form-floating mb-3">
                 <input id="password" type="password" class="form-control form-control_gray @error('password') is-invalid @enderror" name="password" required=""
                   autocomplete="current-password">
-                <label for="customerPasswodInput">Password *</label>
+                <label for="customerPasswodInput">Password </label>
                  @error('password')
                     <span class="invalid-feedback" role="alert">
                         <strong>{{ $message }}</strong>
