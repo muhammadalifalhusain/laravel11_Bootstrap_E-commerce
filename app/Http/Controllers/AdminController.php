@@ -3,10 +3,12 @@
 namespace App\Http\Controllers; // Namespace harus di atas
 
 use App\Models\Brand; // Import model setelah namespace
+use App\Models\Category;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
-use Intervention\Image\Facades\Image; // Tambahkan ini
+use Intervention\Image\Laravel\Facades\Image;
+// Tambahkan ini
 
 class AdminController extends Controller
 {
@@ -55,10 +57,16 @@ class AdminController extends Controller
         $destinationPath = public_path('uploads/brands');
 
         // Perbaikan pemrosesan gambar menggunakan Intervention Image
-        $img = Image::make($image->path())->resize(124, 124, function($constraint){
+        $img = Image::read($image->path())->resize(124, 124, function($constraint){
             $constraint->aspectRatio();
         });
 
         $img->save($destinationPath . '/' . $imageName);
+    }
+
+    public function categories()
+    {
+        $categories = Category::orderBy('id','DESC')->paginate(10);
+        return view('admin.categories',compact('categories'));
     }
 }
